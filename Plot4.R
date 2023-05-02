@@ -1,3 +1,4 @@
+## created by Bill Lisse
 plot4 <- function() {
   ## Aim of this function is to 
   ## 1. read the household_power_consumption.txt file
